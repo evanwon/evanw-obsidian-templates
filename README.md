@@ -22,4 +22,4 @@ And here's a more complex taxonomy I use for work:
 - 60 - Knowledgebase (this is synonymous "Reference Notes" in my personal system, and contains the majority of my notes)
 - 70 - Templates
 - 80 - Archives
-- 90 - Non-Indexed (I use this for interviews, files, and other things I don't want to be indexed and clog up my search)
+- 90 - Non-Indexed (I use this for interviews, files, and other things I don't want to be indexed and clog up my search. You can configure this in Settings --> Files & Links --> Excluded files.)
