@@ -21,7 +21,7 @@ And here's a more complex taxonomy I use for work:
 - 6 - Projects
 - 60 - Knowledgebase (this is synonymous "Reference Notes" in my personal system, and contains the majority of my notes)
 - 70 - Templates
-- 80 - Archives
+- 80 - Archives (This is where I put things like post-processed meeting notes. By "post-processed", I mean that as appropriate, I pull out any important facts into reference notes, store those in Knowledgebase, and then I preserve the raw meeting notes in the Archives which are searchable.)
 - 90 - Non-Indexed (I use this for interviews, files, and other things I don't want to be indexed and clog up my search. You can configure this in Settings --> Files & Links --> Excluded files.)
 
 ## Further Learning
