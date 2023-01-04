@@ -1,5 +1,5 @@
 # evanw-obsidian-templates
-Obsidian (obsidian.md) is an excellent note-taking and "second brain" application, and I use it _extensively_. I'm open sourcing some of my commonly-used (and non-proprietary) templates for others to consume and remix.
+Obsidian ([obsidian.md](https://obsidian.md/)) is an excellent note-taking and "second brain" application, and I use it _extensively_. I'm open sourcing some of my commonly-used (and non-proprietary) templates for others to consume and remix.
 
 ## My Obsidian folder structure
 You might be wondering why the Templates folder is called `70 - Templates`. This is because I use a simple numbering system to keep everything in order (rather than alphabetically). 
