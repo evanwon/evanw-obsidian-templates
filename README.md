@@ -23,3 +23,6 @@ And here's a more complex taxonomy I use for work:
 - 70 - Templates
 - 80 - Archives
 - 90 - Non-Indexed (I use this for interviews, files, and other things I don't want to be indexed and clog up my search. You can configure this in Settings --> Files & Links --> Excluded files.)
+
+## Further Learning
+I think this is a great intro to Obsidian and Zettelkasten-style note-taking: https://www.youtube.com/watch?v=E6ySG7xYgjY
