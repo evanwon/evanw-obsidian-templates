@@ -1,7 +1,7 @@
 Created: {{date}}
 Tags: 
 
-# Daily Review: {{date}}
+# {{date}} - Daily Review
 
 ## Progress Made
 - 
