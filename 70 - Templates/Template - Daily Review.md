@@ -1,16 +1,10 @@
-Created: {{date}}
-Tags: 
+## Daily Review: {{date}}
 
-# {{date}} - Daily Review
-
-## Progress Made
+### Progress Made
 - 
 
-## Unfinished Business 
+### Unfinished Business 
 - 
 
-## Points of Friction
-- 
-
----
-# References
+### Points of Friction
+-
