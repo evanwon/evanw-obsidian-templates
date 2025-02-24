@@ -1,9 +1,9 @@
 Tags: #interview 
 
 ## Information
-**Candidate:** 
-**Role:** 
-**Link:** 
+* **Candidate:** 
+* **Role:** 
+* **Link:** 
 
 ## Reference Material
 - [add links to role guidelines, calibration tools, etc.]
