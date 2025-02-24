@@ -1,7 +1,5 @@
 Tags: #interview 
 
-# {{title}}
-
 ## Information
 **Candidate:** 
 **Role:** 
